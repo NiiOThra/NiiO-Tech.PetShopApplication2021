@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>NiiO_Tech.PetShopApplication</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\NiiO-Tech.PetShopApplication2021.Core\NiiO-Tech.PetShopApplication2021.Core.csproj" />
+      <ProjectReference Include="..\NiiO-Tech.PetShopApplication2021.Domain\NiiO-Tech.PetShopApplication2021.Domain.csproj" />
+      <ProjectReference Include="..\NiiO-Tech.PetShopApplication2021.Infrastructure.Data\NiiO-Tech.PetShopApplication2021.Infrastructure.Data.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    </ItemGroup>
+
+</Project>

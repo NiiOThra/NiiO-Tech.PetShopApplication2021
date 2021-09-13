@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Shel3W1ZU6dRWQ5uoZGwUUWq2t3iPJRR2Eu8Zy3wr05NSX6hNc29Q6Hccrc13UXS/hnPKQ+91qtTVlRNhBhyDA==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\NiiO-Tech.PetShopApplication2021\\NiiO-Tech.PetShopApplication2021.Domain\\NiiO-Tech.PetShopApplication2021.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\45283\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\45283\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

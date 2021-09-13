@@ -1,0 +1,15 @@
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\bin\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.deps.json
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\bin\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.dll
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\bin\Debug\net5.0\ref\NiiO-Tech.PetShopApplication2021.Domain.dll
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\bin\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.pdb
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\bin\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Core.dll
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\bin\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Core.pdb
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.csproj.AssemblyReference.cache
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.AssemblyInfoInputs.cache
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.AssemblyInfo.cs
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.csproj.CoreCompileInputs.cache
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.csproj.CopyComplete
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.dll
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\ref\NiiO-Tech.PetShopApplication2021.Domain.dll
+C:\Work\NiiO-Tech.PetShopApplication2021\NiiO-Tech.PetShopApplication2021.Domain\obj\Debug\net5.0\NiiO-Tech.PetShopApplication2021.Domain.pdb
